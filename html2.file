@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+    <html lang="fa" dir="rtl">
+    <head>
+        <meta charset="UTF-8">
+        <title>هنرمند</title>
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <script src="js/bootstrap.bundle.min.js"></script>
+    </head>
+
+<body>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#"><img src="119.jpg" class="rounded-circle" alt="" style="width: 60px " height="60px" ></a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav" >
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#" style="color: #1457ff" >خانه</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#" style="color: #1457ff">محصولات</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#" style="color: #1457ff">آلبوم ها</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#" style="color: #1457ff">درباره ما</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#" style="color: #1457ff">تماس با ما</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-indicators">
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    </div>
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="120.png" class="d-block w-100" alt="..." height="600px">
+        </div>
+        <div class="carousel-item">
+            <img src="121.png" class="d-block w-100" alt="..." height="600px">
+        </div>
+        <div class="carousel-item">
+            <img src="122.png" class="d-block w-100" alt="..." height="600px">
+        </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>
+<h3 style="color:blue;">محصولات  هنری</h3>
+<div class="container mb-4">
+
+    <div class="row mt-4 mb-5">
+        <div class="col-md-6 col-sm-12 col-xl-4"> <img src="123.jpg" class="img-fluid img-thumbnail">
+            <button type="button" class="btn btn-primary">محصول  </button>
+        </div>
+
+        <div class="col-md-6 col-sm-12 col-xl-4"> <img src="124.jpg" class="img-fluid img-thumbnail">
+
+            <button type="button" class="btn btn-primary">محصول</button>
+        </div>
+
+        <div class="col-md-6 col-sm-12 col-xl-4">
+            <img src="125.jpg" class="img-fluid img-thumbnail">
+            <button type="button" class="btn btn-primary">محصول</button>
+        </div>
+        <div class="col-md-6 col-sm-12 col-xl-4">
+            <img src="126.jpg" class="img-fluid img-thumbnail">
+            <button
+
+
+                    type="button" class="btn btn-primary">محصول</button>
+        </div>
+        <div class="col-md-6 col-sm-12 col-xl-4">
+            <img src="127.jpg" class="img-fluid img-thumbnail">
+            <button type="button" class="btn btn-primary">محصول</button>
+        </div>
+        <div class="col-md-6 col-sm-12 col-xl-4">
+            <img src="128.jpg" class="img-fluid img-thumbnail">
+            <button type="button" class="btn btn-primary">محصول</button>
+        </div>
+        <div class="row mt-4">
+            <div class="col-lg-6 col-sm-12"><img src="129.jpg" style="width: 400px" height="400px"></div>
+            <div class="col-lg-6 col-sm-12"><p style="color: #2f31b4" style="background-color: #1457ff">
+                <P>ایده های جدید و زیبا برای نقاشی روی سنگ | آموزش نقاشی روی سنگ
+                    نقاشی روی سنگ یکی از کارهای خلاقانه و جالب است که می توانید به راحتی آن را در منزل انجام داده و از این طریق سنـگ های خیلی ساده و معمولی را تزیین نمایید.
+                    این هنر زیبا را می توانید به کودکان نیز آموزش دهید و از این خلاقیت جالب به عنوان کاردستی کودکان استفاده نمایید.
+                    سنگ های مختلف یکی از در دسترس ترین وسایل موجود است که با استفاده از آنها می توانید وسایل تزیینی و دکوری های متنوعی تهیه نمایید.
+                    نقـاشی روی سنگ یکی از ابتکارات جالب و جذاب است که با به کارگیری آن می توان زیباترین سنگهای تزیینی را داشت.
+                    در ادامه ضمن مشاهده مدل های متنوع سنگ های نقاشی شده با نحوه صحیح نقاشی و رنگ آمیزی سنگ ها آشنا شوید.
+                    خمیر بتونه، سمباده، رنگ آکریلیک، مداد یا ماژیک سفید، قلم مو در سایزهای مختلف و انواع سنگ مواد لازم برای نقاشی هستند.
+                    خمیر بتونه ترکیب چشمی از پودر مل و چسب چوب است تا به غلظت ماست چکیده برسد.
+                    سنگ را بشویید و با خمیر بتونه روی سنگ را با کاردک کاملا” بپوشانید.
+                    بعد از خشک شدن خمیر بتونه ، روی آن را سمباده بکشید.
+                    وقتی خشک شد با ترکیبی از رنگ سیاه و خیلی کم سفید یک رنگ سنگی بسازید و روی سنگ بزنید.
+                    با مداد یا ماژیک سفید طرح دلخواهتان را روی سنگ بکشید.
+                    رنگ زدن را شروع کنید.
+                    همچنین می توانید سایه روشن را بعد از اینکه کمی رنگ اصلی خشک شد بزنید.
+                    رنگ زدن را ادامه بدهید!
+                    در انتها با یک قلم موی ظریف نقاشیتان را دور گیری کنید.
+                    بعد از اینکه نقاشی کاملا” خشک شد روی کار اسپری براق کننده بزنید.
+
+
+
+
+                </p>
+
+            </div>
+
+        </div>
+        <form>
+            <div class="mb-3 row mt-4" >
+                <label for="staticEmail" class="col-sm-2 col-form-label" style="margin-right: 30px">پست الکترونیکی:</label>
+                <div class="col-sm-8" >
+                    <input type="text"  class="form-control" id="staticEmail" STYLE="border-color: #4691de">
+                </div>
+            </div>
+            <div class="mb-3 row" >
+                <label for="inputPassword" class="col-sm-2 col-form-label" style="margin-right: 30px">رمز عبور:</label>
+                <div class="col-sm-8">
+                    <input type="password" class="form-control" id="inputPassword"  STYLE="border-color: #4691de">
+                    <button type="button" class="btn btn-primary" >تایید</button>
+                </div>
+            </div>
+        </form>
+    </div>
+
+</div>
+    <footer>
+        <div class="col-LG-4 col-sm-12"><p>درباره سایت: فروش محصولات دست ساز <br>
+            <a href="">dastanhonarmand00@gmail.com</a></p></div>
+
+        <div class="col-LG-4 col-sm-12"><img src="130.png" class="rounded-circle" alt="" style="width: 60px " height="60px" ></div>
+
+        <div class="col-LG-4 col-sm-12"><p>در شبکه ی مجازی مارا دنبال کنید<br>
+            <img src="132.jpg" class="rounded-circle" alt="Instagram " style="width: 20px " height="20px" > </p></div>
+
+    </footer>
+</body>
+</html>
