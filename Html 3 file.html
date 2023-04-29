@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="css/bootstrap.rtl.css" rel="stylesheet">
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let text = /vaeli*/i;
+    let result = text.test("Teymouri!");
+    function event1()
+    {
+        if(result)
+        {
+            document.getElementById("demo").innerHTML="True";
+        }
+        else{
+            document.getElementById("demo").innerHTML="False";
+        }
+
+    }
+
+    function event2()
+    {
+        if(result)
+        {
+            document.getElementById("demo").innerHTML="Yes";
+        }
+        else{
+            document.getElementById("demo").innerHTML="No";
+        }
+
+    }
+</script>
+
+<div  class="container" >
+    <div class="align-items-center align-content-center justify-content-center">
+        <p id="demo" ></p>
+
+        <button type="button" class="btn btn-warning align-content-center align-items-center "  onclick="event1()" >click1</button>
+        <button type="button" class="btn btn-warning align-content-center align-items-center"  onclick="event2()" >click2</button>
+
+    </div>
+</div>
+</body>
+</html>
