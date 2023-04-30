@@ -1,0 +1,6 @@
+function GetIpHost($ip)
+{
+$ip = gethostbyname($ip);
+return $ip;
+}
+echo(GetIpHost("www.7learn.com"))
